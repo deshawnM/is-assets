@@ -13,8 +13,8 @@ This repository contains the public app icons and PWA assets for the Intentional
 These icons are referenced in the main application's web app manifest for PWA functionality and "Add to Home Screen" features.
 
 **Raw URLs:**
-- https://raw.githubusercontent.com/deshawnM/intentional-spirituality-icons/main/icon-192.webp
-- https://raw.githubusercontent.com/deshawnM/intentional-spirituality-icons/main/icon-512.webp
+- https://raw.githubusercontent.com/deshawnM/is-assets/main/icon-192.webp
+- https://raw.githubusercontent.com/deshawnM/is-assets/main/icon-512.webp
 
 ## About Intentional Spirituality™
 
