@@ -22,4 +22,4 @@ Your Beautiful Chaos - A digital spiritual practice workspace.
 
 ---
 
-© 2025 Intentional Spirituality™. All rights reserved.
+© 2025 Intentional Spirituality™. All rights aligned ✨
